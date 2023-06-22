@@ -27,7 +27,6 @@ Website tentang pengelolaan sampah daur ulang secara digital atau disebut bank s
 ![Screenshot 2023-06-18 145223](https://github.com/addsarah/banksampah/assets/116699790/f433194f-b70f-4e52-9217-8c1f93f9aa2f)
 
 ## local installation
-- run `` git clone  ``
 - run ``composer install `` 
 - run `` npm install ``
 - run ``npm run dev``
