@@ -1,8 +1,33 @@
 ![Triangle POS](public/images/logo-dark.png)
-> This Project is ready for Production. If you find any bug or have any suggestion please create an Issue.
+> If you find any bug or have any suggestion please create an Issue.
 
-# Local Installation
+## about
+Website tentang pengelolaan sampah daur ulang secara digital atau disebut bank sampah 
 
+## feature
+- Products Management & Barcode 
+- Stock Management
+- User Purchase Management
+- Sale & expense Management
+- Purchase & Sale Return Management
+- Customer & Supplier Management
+- User & Admin Management (Roles & Permissions)
+- Product Multiple Images
+- System Settings
+- Currency settings
+- All Reports (include profit report, payment report, sales report, purchase report, and sales return & purchase return report)
+
+**purchase preview**
+![Screenshot 2023-06-18 145118](https://github.com/addsarah/banksampah/assets/116699790/2486d57e-d7dc-45c1-9906-da48b5122c20)
+
+**post purchase preview**
+![Screenshot 2023-06-18 145140](https://github.com/addsarah/banksampah/assets/116699790/7af633d8-ea0b-4f2e-887d-890a31906070)
+
+**after purchase preview**
+![Screenshot 2023-06-18 145223](https://github.com/addsarah/banksampah/assets/116699790/f433194f-b70f-4e52-9217-8c1f93f9aa2f)
+
+## local installation
+- run `` git clone  ``
 - run ``composer install `` 
 - run `` npm install ``
 - run ``npm run dev``
@@ -14,30 +39,13 @@
 - run `` php artisan serve ``
 - then visit `` http://localhost:8000 or http://127.0.0.1:8000 ``.
 
-> **Important Note:** "Triangle POS" uses Laravel Snappy Package for PDFs. If you are using Linux then no configuration is needed. But in other Operating Systems please refer to [Laravel Snappy Documentation](https://github.com/barryvdh/laravel-snappy).
+## admin credential
+email : admin@test.com
+password : 12345678
 
-# Admin Credentials
-> Email: admin@test.com || Password: 12345678
-
-## Demo
-![Triangle POS](public/images/screenshot.jpg)
-**Live Demo:** Work In Progress
-
-## Triangle POS Features
-
-- **Products Management & Barcode Printing**
-- **Stock Management**
-- **Make Quotation & Send Via Email**
-- **Purchase Management**
-- **Sale Management**
-- **Purchase & Sale Return Management**
-- **Expense Management**
-- **Customer & Supplier Management**
-- **User Management (Roles & Permissions)**
-- **Product Multiple Images**
-- **Multiple Currency Settings**
-- **System Settings**
-- **Reports**
-
-# License
-**[Creative Commons Attribution 4.0	cc-by-4.0](https://creativecommons.org/licenses/by/4.0/)**
+## tech
+- Laravel 8 - PHP Framework for building the admin dashboard and mobile api.
+- Bootstrap 5.3.0
+  
+# license
+[Creative Commons Attribution 4.0	cc-by-4.0](https://creativecommons.org/licenses/by/4.0/)
