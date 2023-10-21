@@ -2,7 +2,7 @@
 > If you find any bug or have any suggestion please create an Issue.
 
 ## about
-Website tentang pengelolaan sampah daur ulang secara digital atau disebut bank sampah 
+Website tentang pengelolaan sampah daur ulang secara digital atau disebut bank sampah untuk kepentingan tugas
 
 ## feature
 - Products Management & Barcode 
